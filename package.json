@@ -1,0 +1,30 @@
+{
+  "name": "lyricsmapper",
+  "version": "0.0.1",
+  "description": "Hot 100 Billboard charts song lyrics WordCount for the Hadoop Class Project - DAOUD - MERCIER - SCHOUKROUN ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daoud - Mercier - Schoukroun",
+  "license": "ISC",
+  "dependencies": {
+    "billboard-top-100": "^2.0.6",
+    "lyric-get": "^1.0.3",
+    "lyrics-fetcher": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leopaul36/LyricsMapper.git"
+  },
+  "keywords": [
+    "lyrics",
+    "hbase",
+    "node"
+  ],
+  "bugs": {
+    "url": "https://github.com/leopaul36/LyricsMapper/issues"
+  },
+  "homepage": "https://github.com/leopaul36/LyricsMapper#readme"
+}
